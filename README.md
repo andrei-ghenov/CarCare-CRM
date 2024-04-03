@@ -38,7 +38,7 @@ The primary goal of CarCare CRM is to provide auto repair businesses with a comp
 4. Access CarCare CRM at http://localhost:8080 (or the configured port).
 
 ### Contributing
-We welcome contributions! Please read our contributing guidelines to learn how you can help improve CarCare CRM.
+We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) to learn how you can help improve CarCare CRM.
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.

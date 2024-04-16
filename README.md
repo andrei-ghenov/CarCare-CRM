@@ -47,5 +47,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Drupal Community
 - Auto repair professionals and businesses for their insights.
 
-For more information, visit our wiki or issues page to see ongoing discussions, planned features, and bug reports.
+For more information, visit our [wiki](https://github.com/andrei-ghenov/CarCare-CRM/wiki) or [issues](https://github.com/andrei-ghenov/CarCare-CRM/issues) page to see ongoing discussions, planned features, and bug reports.
 
